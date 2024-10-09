@@ -36,8 +36,7 @@
 
 ## Key Features
 
-* Live stream chat crawling with stream ID
-* Dynamic analysis of last-X comment
+
 
 ## How To Use
 
