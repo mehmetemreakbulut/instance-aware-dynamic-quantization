@@ -1,0 +1,14 @@
+filelock==3.16.1
+fsspec==2024.9.0
+Jinja2==3.1.4
+MarkupSafe==3.0.1
+mpmath==1.3.0
+networkx==3.4rc0
+numpy==2.1.2
+pillow==10.4.0
+setuptools==75.1.0
+sympy==1.13.1
+torch==2.6.0.dev20241008
+torchaudio==2.5.0.dev20241008
+torchvision==0.20.0.dev20241008
+typing_extensions==4.12.2
