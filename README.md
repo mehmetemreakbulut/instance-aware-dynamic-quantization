@@ -3,7 +3,7 @@
   <br>
   <a href="https://github.com/huawei-noah/Efficient-Computing/tree/master/Quantization/DynamicQuant"><img src="https://user-images.githubusercontent.com/19202799/182549238-2cc1db63-e504-483f-8a2e-ff51d94974cb.png" alt="Instance-Aware Dynamic Neural Network Quantization" width="200"></a>
   <br>
-  Instance-Aware Dynamic Neural Network Quantization, CVPR 2022.
+  Instance-Aware Dynamic Neural Network Quantization, CVPR 2022. Credits for <a href="https://github.com/huawei-noah">Huawei Noah's Lab</a>
   <br>
 </h1>
 
